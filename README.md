@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Zainab Abdi.
 I am a tech enthusiast, specifically in full stack developing.  
 
-🔭 I’m currently working on understading Git/Github projects.
+🔭 I’m currently working on Git/Github projects.
 
 🌱 I’m currently learning Agile methodolgies, Jira and Bash.
 
