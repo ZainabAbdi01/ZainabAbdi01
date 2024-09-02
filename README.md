@@ -1,11 +1,13 @@
-## Hi there 👋 My name is Zainab Abdi.
-I am a tech enthusiast, specifically in full stack developing.  
+## Hi there, My name is Zainab 👋
+I am a tech enthusiast, with a new found passion for web development, coding and continuous learning. 
+
+I previsouly worked as a teacher both in a primary and secondary setting for many years. I also briefly worked as a Scrum mMster which fuelled my passion for learning new technologies. 
 
 🔭 I’m currently working on Git/Github projects.
 
 🌱 I’m currently learning Agile methodolgies, Jira and Bash.
 
-👯 I’m looking to collaborate on designing online apps
+👯 I’m looking forward to collaborating on designing and developing online apps.
 
 📫 How to reach me: Zainababdi2025@gmil.com
 <!--
